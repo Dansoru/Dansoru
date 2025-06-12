@@ -2,6 +2,9 @@
   <summary>📖 Prefer to read this in English? Click here to view it in English 🇬🇧</summary>
   
 # 👋 Hi there, I'm Rafa!
+<a id="spanish"></a>
+## Version en espanol
+
 
 🎨 Web developer in training and 3D artist, driven by creativity and ambition.
 
@@ -94,25 +97,22 @@ _2023 – 2025 (In progress)_
 > _"Crazy things are for crazy people – like me"_ ✨  
 > _— rvf1_k_
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p align="center">
-  🍃 <strong>There's nothing else here...</strong> 🍃
-</p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-🌱 <strong>Well... just a bit more down there, it's in Spanish</strong>
+  🍃 <strong>There's nothing else here...</strong>  
   </p>
   
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-🤏 <strong>Just a little bit more...</strong>
-  </p>
+  🌱 <strong>Well... a bit more below, in Spanish</strong>  
+</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
+
+
+
 
 </details>
 
