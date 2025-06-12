@@ -34,7 +34,7 @@ _2023 – Present_
 ---
 
 ### 🏢 Internship – Soluciones Virtuales  
-_2023 (approx. 2 months full-time)_  
+_2024 (3 months full-time)_  
 - 3D modeling of interior spaces for interactive virtual tours  
 - Use of **Matterport** to scan real estate and generate walkthroughs  
 - Video editing for property promotions and commercial content  
@@ -44,8 +44,8 @@ _2023 (approx. 2 months full-time)_
 ## 🎓 Education
 
 **Vocational Training in Web Application Development**  
-_I.E.S. [School Name]_  
-_2023 – 2025 (In progress)_
+_I.E.S. Macia Abela_  
+_2024 – 2025 (In progress)_
 
 ---
 
@@ -129,7 +129,7 @@ _2023 – Presente_
 ---
 
 ### 🏢 Prácticas profesionales – Soluciones Virtuales  
-_2023 (aprox. 2 meses a jornada completa)_  
+_2024 (3 meses a jornada completa)_  
 - Creación de modelos 3D de interiores para tours virtuales interactivos.  
 - Uso de **Matterport** para escaneado de viviendas y generación de recorridos.  
 - Edición de video para promociones de propiedades y proyectos comerciales.  
@@ -146,7 +146,7 @@ _2025 (desde mayo – en curso)_
 ## 🎓 Formación académica
 
 **FP Desarrollo de Aplicaciones Web**  
-_I.E.S. [Nombre del centro]_  
+_I.E.S. Macia Abela_  
 _2023 – 2025 (En curso)_
 
 ---
