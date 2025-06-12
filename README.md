@@ -24,20 +24,26 @@ _🚧 En construcción..._
 
 ## 💼 Experiencia
 
-### Desarrollador web en formación  
-**Autodidacta / Proyectos personales**  
-_Enero 2023 – Presente_  
-- Desarrollo de sitios web usando HTML, CSS, JavaScript y PHP.  
-- Uso de frameworks y herramientas como Laravel y Docker.  
-- Diseño e implementación de bases de datos MySQL.  
-- Creación de interfaces responsivas y accesibles.
+### 🧰 Artista 3D – Proyectos personales  
+_2023 – Presente_  
+- Modelado y renderizado 3D con Blender, enfocado en escenas realistas o estilizadas, con total exploración creativa.  
+- Desarrollo de proyectos personales para practicar iluminación, composición, diseño arquitectónico y storytelling visual.
 
-### Artista 3D y creador de contenido  
-**Blender en Español (Comunidad Discord)**  
-_Marzo 2024 – Presente_  
-- Modelado y renderizado 3D con Blender.  
-- Producción de tutoriales y contenido educativo para comunidad hispanohablante.  
-- Colaboración activa y soporte a otros usuarios.
+---
+
+### 🏢 Prácticas profesionales – Soluciones Virtuales  
+_2023 (aprox. 2 meses a jornada completa)_  
+- Creación de modelos 3D de interiores para tours virtuales interactivos.  
+- Uso de **Matterport** para escaneado de viviendas y generación de recorridos.  
+- Edición de video para promociones de propiedades y proyectos comerciales.  
+
+---
+
+### 💻 Desarrollador web – Prácticas en **TuTrámiteFácil**  
+_2025 (desde mayo – en curso)_  
+- Desarrollo de funcionalidades web con **PHP** y **Laravel** en un entorno Dockerizado.  
+- Integración con base de datos MySQL y diseño de interfaces funcionales.  
+- Participación activa en el flujo de trabajo de una **startup** real, resolviendo tickets y colaborando en equipo.  
 
 ---
 
