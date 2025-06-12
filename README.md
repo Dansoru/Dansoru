@@ -2,9 +2,6 @@
   <summary>📖 Prefer to read this in English? Click here to view it in English 🇬🇧</summary>
   
 # 👋 Hi there, I'm Rafa!
-<a id="spanish"></a>
-## Version en espanol
-
 
 🎨 Web developer in training and 3D artist, driven by creativity and ambition.
 
