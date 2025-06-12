@@ -90,7 +90,7 @@ _2023 – 2025 (In progress)_
 --->
 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hisoru__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile) (coming soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
 
 ---
 
@@ -100,19 +100,10 @@ _2023 – 2025 (In progress)_
 <br><br><br><br><br><br>
 
 <p align="center">
-  🍃 <strong>There's nothing else here...</strong>  
+  🍃 <strong>There's nothing else here. Well... in Spanish</strong>  
   </p>
   
-<br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  🌱 <strong>Well... a bit more below, in Spanish</strong>  
-</p>
-
-<br><br><br><br>
-
-
-
+<br><br><br><br><br><br><br><br>
 
 </details>
 
@@ -203,7 +194,7 @@ _2023 – 2025 (En curso)_
 --->
 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hisoru__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario) (aun no tengo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
 ---
 
 > _"Las locuras son para los locos, como yo"_ ✨  
