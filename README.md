@@ -96,9 +96,7 @@ _2024 – 2025 (In progress)_
 
 <br><br><br><br><br><br>
 
-<p align="center">
-  🍃 <strong>[There's nothing else here. Well... in Spanish](https://github.com/Dansoru#-hi-there-im-rafa)</strong>  
-  </p>
+  🍃 <strong>There's nothing else here. Well... in Spanish [⬆️](https://github.com/Dansoru#-hi-there-im-rafa)</strong>  
   
 <br><br><br><br><br><br><br><br>
 
