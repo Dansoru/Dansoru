@@ -1,9 +1,118 @@
-# Esto todavia un borrador 📄
-
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>📖 Prefer to read this in English? Click here to view it in English 🇬🇧</summary>
   
-_🚧 En construcción..._
+# 👋 Hi there, I'm Rafa!
+
+🎨 Web developer in training and 3D artist, driven by creativity and ambition.
+
+---
+
+## 🚀 About Me
+
+- 🖥️ Web development student, aspiring to study Computer Engineering  
+- 🎬 Content creator focused on 3D art with **Blender**  
+- 🧠 Passionate about technology and visual aesthetics  
+- 🎯 Constant learning and growth  
+
+---
+
+## 💼 Experience
+
+### 💻 Web Developer – Internship at **TuTrámiteFácil**  
+_2025 (since May – ongoing)_  
+- Development of web features using **PHP** and **Laravel**  
+- Database integration with MySQL and UI design  
+- Active participation in a real startup workflow  
+
+---
+
+### 🧰 3D Artist – Personal Projects  
+_2023 – Present_  
+- 3D modeling and rendering with Blender, focused on realistic or stylized scenes with full creative freedom  
+- Personal projects to practice lighting, composition, architectural design, and visual storytelling  
+
+---
+
+### 🏢 Internship – Soluciones Virtuales  
+_2023 (approx. 2 months full-time)_  
+- 3D modeling of interior spaces for interactive virtual tours  
+- Use of **Matterport** to scan real estate and generate walkthroughs  
+- Video editing for property promotions and commercial content  
+
+---
+
+## 🎓 Education
+
+**Vocational Training in Web Application Development**  
+_I.E.S. [School Name]_  
+_2023 – 2025 (In progress)_
+
+---
+
+## 🛠️ Technologies I Use (draft 📄)
+<!---
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+--->
+
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+
+---
+
+## 🧩 Highlight Projects
+
+| 🌟 Name | 📝 Description | 🔗 Link |
+|--------|----------------|--------|
+| Blender en Español | Independent Spanish-speaking Blender 3D community | [Join server](https://discord.gg/Blender-en-espanol) |
+
+---
+
+## 📈 GitHub Stats
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Dansoru&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dansoru&layout=compact&theme=radical)
+
+---
+
+## 🌐 You can find me here
+<!---
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourwebsite.dev)
+--->
+
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hisoru__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile) (coming soon)
+
+---
+
+> _"Crazy things are for crazy people – like me"_ ✨  
+> _— rvf1_k_
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  🍃 <strong>There's nothing else here...</strong> 🍃
+</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+🌱 <strong>Well... just a bit more down there, it's in Spanish</strong>
+  </p>
+  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+🤏 <strong>Just a little bit more...</strong>
+  </p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 </details>
 
@@ -41,9 +150,8 @@ _2023 (aprox. 2 meses a jornada completa)_
 
 ### 💻 Desarrollador web – Prácticas en **TuTrámiteFácil**  
 _2025 (desde mayo – en curso)_  
-- Desarrollo de funcionalidades web con **PHP** y **Laravel** en un entorno Dockerizado.  
+- Desarrollo de funcionalidades web con **PHP** y **Laravel**.  
 - Integración con base de datos MySQL y diseño de interfaces funcionales.  
-- Participación activa en el flujo de trabajo de una **startup** real, resolviendo tickets y colaborando en equipo.  
 
 ---
 
